@@ -15,9 +15,10 @@ These are the exam objectives you review and understand in order to pass the tes
 * [CNCF Exam Curriculum repository ](https://github.com/cncf/curriculum)
 
 ### [Core Concepts](https://v1-8.docs.kubernetes.io/docs/concepts/) 19%
-* [Understand the Kubernetes API primitives](https://kubernetes.io/docs/reference/generated/kubernetes-api/v1.9/)
+* [Understand the Kubernetes API primitives](https://v1-9.docs.kubernetes.io/docs/concepts/overview/kubernetes-api/)
   * [concepts: Kubernetes Objects](https://kubernetes.io/docs/concepts/overview/working-with-objects/kubernetes-objects/)
   * youtube: [Kubernetes Webinar Series - Kubernetes Architecture 101](https://www.youtube.com/watch?v=zeS6OyDoy78)
+  * [Kubernetes Architecture] (https://kubernetes.io/docs/concepts/architecture/nodes/)
 * [Understand the Kubernetes cluster architecture](https://kubernetes.io/docs/concepts/overview/components/)
   * youtube: [A Technical Overview of Kubernetes (CoreOS Fest 2015) by Brendan Burns](https://www.youtube.com/watch?v=WwBdNXt6wO4)
 * [Understand Services and other network primitives](https://kubernetes.io/docs/concepts/services-networking/service/)
